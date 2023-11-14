@@ -7,4 +7,4 @@
 - [ ] IOS
 - [ ] Android
 
-**want to test a demo in browser?** [click here](https://cpstest.volxphy.de)
+**want to test a demo in browser?** [click here](https://cps.volxphy.de)
