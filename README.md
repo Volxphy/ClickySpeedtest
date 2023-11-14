@@ -33,3 +33,4 @@ Feel free to explore the code and contribute to the project. We welcome your inp
 If you have feedback or would like to contribute to the project, please create an issue or a pull request. We appreciate your involvement in making ClickySpeedtest better.
 
 Happy Clicking! 🖱️💨
+![image](https://github.com/Volxphy/ClickySpeedtest/blob/master/Screenshot%202023-11-14%20200155.png)
